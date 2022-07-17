@@ -1,4 +1,4 @@
-### Olá, meu nome é Taísa, e pode me chamar de Tai! 🙂
+### Olá, meu nome é Taísa, mas pode me chamar de Tai! 🙂
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferreirataisa)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taisaferreira)
