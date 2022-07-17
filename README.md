@@ -12,7 +12,7 @@
 <image alineg=center alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> 
 <br/>
-Sou Bióloga, trabalhei durante 15 anos como Embriologista na área de Reprodução Humana. Sempre gostei muito de tecnologia e hoje estou em transição de carreira, estudando Desenvolvimento Web na Trybe. No repositório do curso, é possível verificar uma listagem com a grade curricular, além dos projetos já realizados.
+Sou Bióloga, trabalhei durante 15 anos como Embriologista na área de Reprodução Humana. Depois de muita pesquisa, conheci o mercado de tecnologia e hoje estou em transição de carreira, estudando Desenvolvimento Web na Trybe. No repositório do curso, é possível verificar uma listagem com a grade curricular, além dos projetos já realizados.
 <br/>
 <br/> 
 📬 Meu contato de email: ferreirataisa@yahoo.com.br
