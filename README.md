@@ -12,7 +12,7 @@
 <image alineg=center alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> 
 <br/>
-🇧🇷 I'm Brazilian and I'm currently studing :woman_student: at Trybe. I am currently learning Frontend Development, and have completed Fundamentals of Web Development. I'm currently in an career transition. I am experienced in health research, hold a Master's and Doctorate degree in Health Science, and a Post-Doctorate (PhD) study involving Big Data. I’m an enthusiastic person who loves learning about technology :computer:, I love plants :cactus::herb:, reading :book:, enjoy sharing moments and, I have a great sense of humanity.
+🇧🇷 Olá, meu nome é Taísa. Sou brasileira, nascida em Santa Rosa, interior do Rio Grande do Sul. Atualmente moro em Imbé, no litoral gaúcho. Sou Bióloga, trabalhei durante 15 anos como Embriologista na área de Reprodução Humana. Sempre gostei muito de tecnologia, e hoje estou em transição de carreira, estudando Desenvolvimento Web na Trybe. 📚
 <br/>
 <br/> 
 📬 How to reach me: ferreirataisa@yahoo.com.br
