@@ -1,4 +1,4 @@
-### Hi, I'm Taísa, and my nickname is Tai :crescent_moon:
+### Olá, meu nome é Taísa, e pode me chamar de Tai! 🙂
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferreirataisa)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taisaferreira)
@@ -12,7 +12,7 @@
 <image alineg=center alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> 
 <br/>
-🇧🇷 Olá, meu nome é Taísa. Sou brasileira, nascida em Santa Rosa, interior do Rio Grande do Sul. Atualmente moro em Imbé, no litoral gaúcho. Sou Bióloga, trabalhei durante 15 anos como Embriologista na área de Reprodução Humana. Sempre gostei muito de tecnologia, e hoje estou em transição de carreira, estudando Desenvolvimento Web na Trybe. 📚
+Sou brasileira, nascida em Santa Rosa, interior do Rio Grande do Sul. Atualmente moro em Imbé, no litoral gaúcho. Sou Bióloga, trabalhei durante 15 anos como Embriologista na área de Reprodução Humana. Sempre gostei muito de tecnologia e hoje estou em transição de carreira, estudando Desenvolvimento Web na Trybe.
 <br/>
 <br/> 
 📬 How to reach me: ferreirataisa@yahoo.com.br
